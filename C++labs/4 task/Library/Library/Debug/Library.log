@@ -1,0 +1,11 @@
+﻿  Пропуск... (изменения не обнаружены)
+  stdafx.cpp
+  Team.cpp
+c:\users\ванек\desktop\учёба\2 курс\программирование\4 задача\library\library\game.h(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\ванек\desktop\учёба\2 курс\программирование\4 задача\library\library\game.h(4): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Player.cpp
+  Game.cpp
+c:\users\ванек\desktop\учёба\2 курс\программирование\4 задача\library\library\game.h(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\ванек\desktop\учёба\2 курс\программирование\4 задача\library\library\game.h(4): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  Library.vcxproj -> C:\Users\Ванек\Desktop\учёба\2 курс\программирование\4 задача\Library\Debug\Library.lib

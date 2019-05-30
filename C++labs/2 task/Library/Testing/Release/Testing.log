@@ -1,0 +1,2 @@
+﻿  Testing.cpp
+Testing.cpp(6): fatal error C1083: Не удается открыть файл включение: gtest\gtest.h: No such file or directory

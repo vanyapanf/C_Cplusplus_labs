@@ -1,0 +1,8 @@
+﻿  Создание кода
+  3 of 330 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+Library.lib(stdafx.obj) : warning LNK4099: "Library.pdb" PDB не найден с "Library.lib(stdafx.obj)" или на "C:\Users\Ванек\Desktop\учёба\2 курс\программирование\3 задача\Library\Release\Library.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  Application.vcxproj -> C:\Users\Ванек\Desktop\учёба\2 курс\программирование\3 задача\Library\Release\Application.exe
+  Application.vcxproj -> C:\Users\Ванек\Desktop\учёба\2 курс\программирование\3 задача\Library\Release\Application.pdb (Full PDB)

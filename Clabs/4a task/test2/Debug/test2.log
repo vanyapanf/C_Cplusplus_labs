@@ -1,0 +1,5 @@
+﻿  test2.cpp
+c:\users\ванек\desktop\4а задача\test2\test2.cpp(186): warning C4101: i: неиспользованная локальная переменная
+c:\users\ванек\desktop\4а задача\test2\test2.cpp(227): warning C4172: возвращение адреса локальной или временной переменной : tbl1
+  test2.vcxproj -> C:\Users\Ванек\Desktop\4а задача\Debug\test2.exe
+  test2.vcxproj -> C:\Users\Ванек\Desktop\4а задача\Debug\test2.pdb (Full PDB)

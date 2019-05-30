@@ -1,0 +1,6 @@
+﻿  production.cc
+  gtest_prod_test.cc
+  Создание кода...
+gtest_prod_test.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  gtest_prod_test.vcxproj -> C:\Users\Ванек\Desktop\учёба\2 курс\программирование\4 задача\googletest-master\googletest\msvc\2010\gtest\Win32-Debug\gtest_prod_test.exe
+  gtest_prod_test.vcxproj -> C:\Users\Ванек\Desktop\учёба\2 курс\программирование\4 задача\googletest-master\googletest\msvc\2010\gtest\Win32-Debug\gtest_prod_test.pdb (Full PDB)

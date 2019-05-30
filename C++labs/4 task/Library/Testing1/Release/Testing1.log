@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Testing1.cpp
+c:\users\ванек\desktop\учёба\2 курс\программирование\4 задача\library\library\Game.h(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\ванек\desktop\учёба\2 курс\программирование\4 задача\library\library\Game.h(4): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+Library.lib(Player.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MT_StaticRelease" в Testing1.obj
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" противоречит использованию других библиотек; используйте параметр /NODEFAULTLIB:library
+MSVCRT.lib(_chandler4gs_.obj) : error LNK2001: неразрешенный внешний символ "__except_handler4_common"
+C:\Users\Ванек\Desktop\учёба\2 курс\программирование\4 задача\Library\Release\Testing1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

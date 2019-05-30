@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\ванек\desktop\задача 5\задача 5\source.cpp(46): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\ванек\desktop\задача 5\задача 5\source.cpp(100): warning C4101: info: неиспользованная локальная переменная
+c:\users\ванек\desktop\задача 5\задача 5\source.cpp(124): warning C4101: info1: неиспользованная локальная переменная
+c:\users\ванек\desktop\задача 5\задача 5\source.cpp(123): warning C4101: i: неиспользованная локальная переменная
+c:\users\ванек\desktop\задача 5\задача 5\source.cpp(340): warning C4715: Situation1: значение возвращается не при всех путях выполнения
+  задача 5.vcxproj -> C:\Users\Ванек\Desktop\задача 5\Debug\задача 5.exe
+  задача 5.vcxproj -> C:\Users\Ванек\Desktop\задача 5\Debug\задача 5.pdb (Partial PDB)

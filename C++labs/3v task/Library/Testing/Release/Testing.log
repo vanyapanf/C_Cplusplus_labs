@@ -1,0 +1,43 @@
+﻿  Testing.cpp
+Testing.cpp(28): error C2374: v: переопределение; множественная инициализация
+  Testing.cpp(25): note:  см. объявление "v"
+Testing.cpp(29): error C2660: testing::internal::EqHelper<false>::Compare: функция не принимает 3 аргументов
+Testing.cpp(29): error C2512: testing::AssertionResult: нет подходящего конструктора по умолчанию
+  C:\Users\Ванек\Desktop\учёба\2 курс\программирование\3 задача\googletest-master\googletest\include\gtest\gtest.h(256): note:  см. объявление "testing::AssertionResult"
+Testing.cpp(30): error C2660: testing::internal::EqHelper<false>::Compare: функция не принимает 3 аргументов
+Testing.cpp(30): error C2512: testing::AssertionResult: нет подходящего конструктора по умолчанию
+  C:\Users\Ванек\Desktop\учёба\2 курс\программирование\3 задача\googletest-master\googletest\include\gtest\gtest.h(256): note:  см. объявление "testing::AssertionResult"
+Testing.cpp(31): error C2374: v: переопределение; множественная инициализация
+  Testing.cpp(25): note:  см. объявление "v"
+Testing.cpp(35): error C2374: v1: переопределение; множественная инициализация
+  Testing.cpp(32): note:  см. объявление "v1"
+Testing.cpp(36): error C2660: testing::internal::EqHelper<false>::Compare: функция не принимает 3 аргументов
+Testing.cpp(36): error C2512: testing::AssertionResult: нет подходящего конструктора по умолчанию
+  C:\Users\Ванек\Desktop\учёба\2 курс\программирование\3 задача\googletest-master\googletest\include\gtest\gtest.h(256): note:  см. объявление "testing::AssertionResult"
+Testing.cpp(37): error C2660: testing::internal::EqHelper<false>::Compare: функция не принимает 3 аргументов
+Testing.cpp(37): error C2512: testing::AssertionResult: нет подходящего конструктора по умолчанию
+  C:\Users\Ванек\Desktop\учёба\2 курс\программирование\3 задача\googletest-master\googletest\include\gtest\gtest.h(256): note:  см. объявление "testing::AssertionResult"
+Testing.cpp(45): error C2374: vres: переопределение; множественная инициализация
+  Testing.cpp(42): note:  см. объявление "vres"
+Testing.cpp(46): error C2660: testing::internal::EqHelper<false>::Compare: функция не принимает 3 аргументов
+Testing.cpp(46): error C2512: testing::AssertionResult: нет подходящего конструктора по умолчанию
+  C:\Users\Ванек\Desktop\учёба\2 курс\программирование\3 задача\googletest-master\googletest\include\gtest\gtest.h(256): note:  см. объявление "testing::AssertionResult"
+Testing.cpp(47): error C2660: testing::internal::EqHelper<false>::Compare: функция не принимает 3 аргументов
+Testing.cpp(47): error C2512: testing::AssertionResult: нет подходящего конструктора по умолчанию
+  C:\Users\Ванек\Desktop\учёба\2 курс\программирование\3 задача\googletest-master\googletest\include\gtest\gtest.h(256): note:  см. объявление "testing::AssertionResult"
+Testing.cpp(50): error C2374: vres: переопределение; множественная инициализация
+  Testing.cpp(42): note:  см. объявление "vres"
+Testing.cpp(51): error C2660: testing::internal::EqHelper<false>::Compare: функция не принимает 3 аргументов
+Testing.cpp(51): error C2512: testing::AssertionResult: нет подходящего конструктора по умолчанию
+  C:\Users\Ванек\Desktop\учёба\2 курс\программирование\3 задача\googletest-master\googletest\include\gtest\gtest.h(256): note:  см. объявление "testing::AssertionResult"
+Testing.cpp(52): error C2660: testing::internal::EqHelper<false>::Compare: функция не принимает 3 аргументов
+Testing.cpp(52): error C2512: testing::AssertionResult: нет подходящего конструктора по умолчанию
+  C:\Users\Ванек\Desktop\учёба\2 курс\программирование\3 задача\googletest-master\googletest\include\gtest\gtest.h(256): note:  см. объявление "testing::AssertionResult"
+Testing.cpp(53): error C2374: vres: переопределение; множественная инициализация
+  Testing.cpp(42): note:  см. объявление "vres"
+Testing.cpp(54): error C2660: testing::internal::EqHelper<false>::Compare: функция не принимает 3 аргументов
+Testing.cpp(54): error C2512: testing::AssertionResult: нет подходящего конструктора по умолчанию
+  C:\Users\Ванек\Desktop\учёба\2 курс\программирование\3 задача\googletest-master\googletest\include\gtest\gtest.h(256): note:  см. объявление "testing::AssertionResult"
+Testing.cpp(55): error C2660: testing::internal::EqHelper<false>::Compare: функция не принимает 3 аргументов
+Testing.cpp(55): error C2512: testing::AssertionResult: нет подходящего конструктора по умолчанию
+  C:\Users\Ванек\Desktop\учёба\2 курс\программирование\3 задача\googletest-master\googletest\include\gtest\gtest.h(256): note:  см. объявление "testing::AssertionResult"

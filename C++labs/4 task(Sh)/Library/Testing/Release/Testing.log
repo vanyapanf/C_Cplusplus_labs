@@ -1,0 +1,8 @@
+﻿Library.lib(Player.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Testing.obj
+Library.lib(Player.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MD_DynamicRelease" не соответствует значению "MTd_StaticDebug" в Testing.obj
+gtest.lib(gtest-all.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Testing.obj
+gtest.lib(gtest-all.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Testing.obj
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" противоречит использованию других библиотек; используйте параметр /NODEFAULTLIB:library
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" противоречит использованию других библиотек; используйте параметр /NODEFAULTLIB:library
+MSVCRT.lib(_chandler4gs_.obj) : error LNK2001: неразрешенный внешний символ "__except_handler4_common"
+C:\Users\Ванек\Desktop\учёба\2 курс\программирование\4 задача\Library\Release\Testing.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
